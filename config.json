@@ -1,7 +1,7 @@
 [
     {
         "name": "reward",
-        "contract": "0x65c9428a152B1b2490318ee481da71b7571be6f2",
+        "contract": "reward",
         "merkleRoot": "0x6ca2be809fecca37ef85b6ed742d38e19e97b6b8801f4f94db8c4c43d984c43f",
         "tokenTotal": "0x79f905bc54b8f9ac8000",
         "claims": {
